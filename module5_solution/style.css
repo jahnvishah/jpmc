@@ -112,4 +112,16 @@ ul{
   .company-info h3, .company-info ul, .brand{
     text-align: left;
   }
+  
+  #backbutton {
+      width:60%;
+      padding:1em;
+      padding-left:10em;
+      padding-right:10em;
+      border:1px solid #c9e6ff;
+      background:#c9e6ff;
+      border:0;
+      text-transform: uppercase;
+      text-align: center;
+  }
 }
